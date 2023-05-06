@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Tushar-Chaudhari-04/Social-Media-Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Tushar-Chaudhari-04/Social-Media-Server.git
